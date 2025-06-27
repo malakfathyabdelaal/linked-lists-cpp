@@ -43,6 +43,7 @@ Updated list: 1 1 2 2 3 5 7 7 10
 
 Clear:
 Updated list: (empty)
+```
 
 ## task2.cpp — Character Doubly Linked List
 This program builds and manages two doubly linked lists of characters. It allows:
